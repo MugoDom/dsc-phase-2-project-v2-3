@@ -48,17 +48,21 @@ By opting for statistical analyses over basic data visualization, we are aiming 
 ##### Objective 1
 For our first model, we checked how sqft_above and sqft_living affect price
 
-![alt text](C:\Users\Admin\Downloads\Objective1.png)
+![image](https://github.com/MugoDom/dsc-phase-2-project-v2-3/assets/133999173/2488e48c-67d9-4dd5-b7e6-24b0ac502091)
+
+
 
 #### Objective 2
 In the second model, we checked the correlation between the dependent and independent variables
 
-![alt text](C:\Users\Admin\Downloads\Objective2.png)
+<img width="570" alt="Objective2" src="https://github.com/MugoDom/dsc-phase-2-project-v2-3/assets/133999173/db12a6b4-e351-4b55-b0b3-2f26e2bde7a1">
+
 
 #### Objective 3
 The third model seeks to identify areas of similar spatial clustering based on house prices 
+![image](https://github.com/MugoDom/dsc-phase-2-project-v2-3/assets/133999173/a9e8efd2-802d-45da-a099-9a87879d37e7)
 
-![alt text](C:\Users\Admin\Downloads\Objective3.png)
+
 
 ## Conclusions
 
